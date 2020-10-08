@@ -1,6 +1,5 @@
 from random import randint
 
-
 class MultiplicationGame:
     # Initialize 4 class properties
     randomNumbers = [0, 0]
